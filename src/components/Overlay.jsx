@@ -98,6 +98,10 @@ export const Overlay = () => {
               3D Jewelry configurator
             </a>
           </p>
+          <p className="p-3">
+            <a href="https://atelierjolie-atelier-jolie.vercel.app/">Atelierjolie</a>
+          </p>
+
         </Section>
       </div>
     </Scroll>
